@@ -1,0 +1,16 @@
+.footer{
+    height: 25vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    font-size: 0.8rem;
+
+}
+
+@media only screen and (max-width: 940px){
+    .footer{
+      padding: 1.5rem 1.4rem;
+  
+    }}

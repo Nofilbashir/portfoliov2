@@ -38,7 +38,7 @@ export const projectsData = [
   {
     id:'project5',
     nextSection:'#connect',
-    title:'Curating tomorrow Website',
+    title:'Curating Tomorrow Website',
     img:require('../assets/project5.png'),
     type:'left',
     description:'Build Modern UI using React js for an event hosted by the company in Norway',

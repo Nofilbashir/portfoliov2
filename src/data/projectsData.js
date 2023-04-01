@@ -12,7 +12,7 @@ export const projectsData = [
     id:'projec2',
     nextSection:'#project3',
     title:'Goal Settler App',
-    img:require('../assets/project2.PNG'),
+    img:require('../assets/project2.png'),
     type:'left',
     description:'Full Stack MERN application with JWT authentication and Redux Toolkit implementation',
     link:'https://shy-blue-caterpillar-hat.cyclic.app/landing',
